@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
+
 #include<math.h>
 #define f(x) x*x*x-2*x-5
  int main()
@@ -50,6 +50,6 @@
 	   {
 	 	printf("\n\tThe root is not within the bracket.");
 		  }	 
- 	getch();
+ 
  	return 0;
  }
